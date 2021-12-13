@@ -14,3 +14,8 @@ En angular.json:
  ```
      
 Los iconos pueden encontrarse en [Iconos FontAwesome v.5](https://fontawesome.com/v5.15/icons?d=gallery&p=2)
+
+Usa una etiqueta de este tipo 
+```
+<i class="fab fa-facebook"></i>
+```
