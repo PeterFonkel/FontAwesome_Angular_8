@@ -4,10 +4,11 @@ En la terminal:
 `npm install --save-dev @fortawesome/fontawesome-free`
 
 En angular.json:
-```"styles": [
+```
+"styles": [
           "node_modules/@fortawesome/fontawesome-free/css/all.min.css"
         ],
-        "scripts": [ 
+"scripts": [ 
 
           "node_modules/@fortawesome/fontawesome-free/js/all.min.js"
         ]
